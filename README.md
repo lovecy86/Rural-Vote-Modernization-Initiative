@@ -17,6 +17,9 @@ The stakeholders for this project are the voters or the citizens of  the town wh
 * The total number of votes each candidate won.
 * The winner of the election based on popular vote.
 
+## **Technology Used**
+Python
+
 ## **Prerequisites**
 
 * Python 3.x installed on your system.
